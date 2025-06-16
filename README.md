@@ -1,2 +1,2 @@
 # toggle
-https://isha9909pandya.github.io/toggle/
+https://github.com/isha9909pandya/toggle.git
